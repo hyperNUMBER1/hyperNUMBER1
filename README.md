@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I'm a 16-year-old student passionate about technology and self-improvement. Right now, I'm diving deep into Computer Science, especially programming and web development. I study in a full-time technical high school program, where I'm building a solid foundation in code, logic, and creative problem-solving.</p>
+<p align="left">I'm a 17-year-old student passionate about technology and self-improvement. Right now, I'm diving deep into Computer Science, especially programming and web development. I study in a full-time technical high school program, where I'm building a solid foundation in code, logic, and creative problem-solving.</p>
 
 ###
 
