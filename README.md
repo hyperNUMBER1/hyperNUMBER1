@@ -40,15 +40,3 @@
 </div>
 
 ###
-
-<h3 align="left">What I Listen To</h3>
-
-###
-
-<div align="left">
-  <a href="https://open.spotify.com/user/dusnc3o4dp6ir8iue73v37126">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=dusnc3o4dp6ir8iue73v37126&count=4&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
