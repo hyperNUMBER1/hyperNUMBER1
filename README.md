@@ -10,7 +10,7 @@
 
 ###
 
-<h3 align="left">What I am currently learning</h3>
+<h3 align="left">What I'm currently learning</h3>
 
 ###
 
